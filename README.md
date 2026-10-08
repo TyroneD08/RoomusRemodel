@@ -11,9 +11,9 @@ Get matched with other students
 
 ## Code used
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
-![alt text](img/20220423_SK_PorchFest_042322_0135.jpg)
+![alt text](room.jpg)
