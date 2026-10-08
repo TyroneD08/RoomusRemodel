@@ -16,4 +16,4 @@ Get matched with other students
 - JavaScript
 
 
-![alt text](room.jpg)
+![Roomus](img/room.jpg)
